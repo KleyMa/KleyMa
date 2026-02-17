@@ -1,4 +1,4 @@
-### Hola soy KleyMa, me gusta programar, o almenos hago el intento. 👋
+### Hola soy Jorge Arguello. Desarrollador de software. 👋
 
 <!--
 **KleyMa/KleyMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
